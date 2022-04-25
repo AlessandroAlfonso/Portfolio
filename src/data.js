@@ -13,7 +13,7 @@ export const product = [
 
     {
         id: 3,
-        img: "",
-        link: ""
+        img: "/site3.jpg",
+        link: "https://nimble-faun-2eb27f.netlify.app"
     }
 ]
